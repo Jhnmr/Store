@@ -1,0 +1,18 @@
+{
+    "name": "tienda/ecommerce",
+    "description": "Tienda virtual con PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "Config/App/",
+            "Controllers\\": "Controllers/",
+            "Models\\": "Models/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^6.8",
+        "tecnickcom/tcpdf": "^6.7",
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}

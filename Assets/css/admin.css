@@ -1,0 +1,44 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    padding: 1rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link {
+    padding: .5rem 1rem;
+}
+
+.nav-link i {
+    margin-right: .5rem;
+}
+
+.dropdown-item i {
+    margin-right: .5rem;
+    width: 1.2rem;
+}
+
+.card {
+    margin-bottom: 1.5rem;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.table th {
+    background-color: #f8f9fa;
+}
+
+.btn i {
+    margin-right: .5rem;
+} 
